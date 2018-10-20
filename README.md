@@ -1,2 +1,2 @@
 # TEST
-test for github
+You can use this function to output in Chinese on the image
