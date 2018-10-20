@@ -1,4 +1,4 @@
-#include "putText.h"
+#include "putText.hpp"
 
 void GetStringSize(HDC hDC, const char* str, int* w, int* h)
 {
